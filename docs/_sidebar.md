@@ -16,4 +16,4 @@
 - Controlador
 
     - [Controlador Pantalla Inicio](Controlador/Controlador%20Pantalla%20Inicio.md)
-    - [Controlador Pantalla Inicio](Controlador/Controlador%20Pantalla%20Jugador.md)
+    - [Controlador Pantalla Jugador](Controlador/Controlador%20Pantalla%20Jugador.md)
